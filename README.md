@@ -1,3 +1,3 @@
-# Staj_Haziligi_Flutter
+# Flutter_Study
 
-Bu repository de staj'a kadar flutter ile ilgili yaptığım çalışmalar vardır
+
